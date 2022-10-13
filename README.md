@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 - 👨‍💻 I am in my first year for my master's in computer science. 
 - 🌱 My research topic is network security.
 - 😄 My hobby is Mr.Children, ice cream, and badminton.
-- 👌 My specialty programming language is C++, Python.
+- 👌 My specialty programming language and technology is C++, Python, Docker.
